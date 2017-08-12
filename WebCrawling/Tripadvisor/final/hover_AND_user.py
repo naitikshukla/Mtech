@@ -143,8 +143,8 @@ def main(url):
 		g = open("trip-Sentosa_user_review.txt","wb+")
 		header_hover = u'Badge| Since| From| Contributions| Cities Visited| Helpful| Photos| Travelstyle|UID| Username| profile URL\n'
 		header_user = u'username| UID| reviewCategory| where| rating| title| review ID| Content\n'
-		f.write(header_hover)
-		g.write(header_user)
+		f.write(header_hover.encode('utf8'))
+		g.write(header_user.encode('utf8'))
 	else:
 		f = open("profile-hover1.txt","ab+")								# Create File for User Profile Details
 		g = open("trip-Sentosa_user_review1.txt","ab+")					# For user reviews
