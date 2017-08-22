@@ -3,4 +3,4 @@
 Please follow same folder structure.
 
 <br>
-~Special thanks to :http://www.andrew-silva.com/2016/11/facial-expression-recognition-with.html~
+`Special thanks to :http://www.andrew-silva.com/2016/11/facial-expression-recognition-with.html`
