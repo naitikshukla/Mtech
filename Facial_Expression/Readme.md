@@ -17,3 +17,9 @@ emotions = ["neutral", "anger", "disgust", "happy", "sadness", "surprise"]<br><b
 ***<u>`face_emotions_master.py`</u> -<br>***
 Script will show WEBCAM image with emotions emoji interpolated over face dynamically with position and size.<br>
 Also put text of emotion over frame.<br>
+<br><br>
+
+***Result***:<br>
+![Alt text](Result/happy.JPG?raw=true "When everyone smiling")
+<br>
+![Alt text](Result/surprise.JPG?raw=true "When model also surprises")
