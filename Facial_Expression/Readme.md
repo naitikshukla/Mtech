@@ -18,7 +18,11 @@ emotions = ["neutral", "anger", "disgust", "happy", "sadness", "surprise"]<br><b
 Script will show WEBCAM image with emotions emoji interpolated over face dynamically with position and size.<br>
 Also put text of emotion over frame.<br>
 <br><br>
-
+__If you simply want to run classifier do below:__<br>
+* Download folder __graphics__ and its content
+* Download folder __models__ and it's content
+* Download `emotions_self.py` and just execute from shell &nbsp;&nbsp;__python emotions_self.py__
+<br><br>
 ***Result***:<br>
 ![Alt text](Result/happy.JPG?raw=true "When everyone smiling")
 <br>
