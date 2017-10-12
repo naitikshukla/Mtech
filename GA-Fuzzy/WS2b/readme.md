@@ -17,9 +17,9 @@ All files for CA2b includes.<br>
  ### __Estimating Expected Profit__
 * Estimate the expected profit from the campaign by summing the expected
 profit from each individual customer-
-
+```
     Expected profit for campaign = ∑ customers Expected profit for customer(i)
-
+```
 * The profit for a customer depends on the product bought (A or B) and the expected amount of money they will invest, but there is no formula to estimate the amount of money a customer will invest. There are guidelines developed by experienced staff to calculate an investment potential score for each customer (a number between 0 and 10)
 ```
     Expected profit for customer(i) = customer investment score * 0.6 if product purchased = A
